@@ -22,7 +22,7 @@ Click the button below to fork this project into your GitHub account:
 
 ### 🔑 Step 2: Get Pair Code
 
-Quickly connect your WhatsApp by generating a secure pairing code:
+Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pairing not working...
 
 <div align="center">
   <a href="https://zenthra-pair.onrender.com/pair" target="_blank">
@@ -36,6 +36,17 @@ Quickly connect your WhatsApp by generating a secure pairing code:
 
 ### ⚙️ Step 3: Deploy the Bot
 
+> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+
+<div align="left">
+  <a href="https://github.com/XdKing2/Zenthra-bot/archive/refs/heads/main.zip" target="_blank">
+    <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+</p>
 Watch the tutorial or deploy it on a hosting panel:
 
 <div align="center">

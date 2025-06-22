@@ -1,15 +1,9 @@
+<div align="center">
+    <img src="https://files.catbox.moe/hc9hh3.jpg" alt="Optimus Prime - Leader of the Autobots" width="100%" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
+</div>
 
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Zenthra-Bot;Advanced+Multi-Device+WhatsApp+Bot;Coded+By+Malvin+King" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://github.com/XdKing2/Zenthra-bot/blob/main/assets/bot_image.jpg" alt="Zenthra Bot" height="300"> 
-  </a> 
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0000FF&center=true&width=1000&height=150&lines=ZENTHRA-BOT;+BY+MALVIN+KING" alt="Typing SVG - ZENTHRA-BOT" />
 </div>
 
 ---

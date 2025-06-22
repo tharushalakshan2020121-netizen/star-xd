@@ -2,13 +2,13 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Zenthra-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Malvin King" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Zenthra-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Malvin-King" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://github.com/XdKing2/Zenthra-bot/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://github.com/XdKing2/Zenthra-bot/blob/main/assets/bot_image.jpg" alt="Zenthra Bot" height="300"> 
   </a> 
 </div>
 
@@ -22,7 +22,7 @@
 
 <a href="https://github.com/XdKing2/Zenthra-bot/fork"><img src="https://img.shields.io/github/forks/XdKing2/Zenthra-bot?style=for-the-badge&logo=github&color=4c1&label=Fork%20Zenthra-bot" alt="Fork Zenthra-bot" /></a>
 
----
+
 
 ---
 

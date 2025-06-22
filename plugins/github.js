@@ -13,7 +13,7 @@ async function githubCommand(sock, chatId, message) {
 
     // Format the GitHub info nicely
     const caption = `
-╭─❖  *Zenthra-Bot MD GitHub Info* ❖─╮
+╭─❖  *GitHub Info* ❖─
 │ 🏷️ *Name*        : ${repo.name}
 │ 📦 *Size*        : ${(repo.size / 1024).toFixed(2)} MB
 │ 🕒 *Last Update* : ${moment(repo.updated_at).format('DD/MM/YY - HH:mm:ss')}

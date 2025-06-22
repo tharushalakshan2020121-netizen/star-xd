@@ -36,7 +36,7 @@ Quickly connect your WhatsApp by generating a secure pairing code: if inbuilt pa
 
 ### ⚙️ Step 3: Deploy the Bot
 
-> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+> Get the latest bot zip file for panel-based deployment:
 
 <div align="left">
   <a href="https://github.com/XdKing2/Zenthra-bot/archive/refs/heads/main.zip" target="_blank">

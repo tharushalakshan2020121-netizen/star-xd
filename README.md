@@ -120,7 +120,7 @@ _For further setup & guidance, click the button below🩹_
 
 <details>
 <summary>🔥 Key Features</summary>
--
+
 - 🔁 **Auto tag all members** in group
 - 🛡 **Anti-link protection** for secure groups
 - 🧠 **AI Chat** (Giphy integration for enhanced responses)

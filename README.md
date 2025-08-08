@@ -108,7 +108,7 @@ _For further setup & guidance, click the button below🩹_
   <a href="https://youtube.com/@malvintech2">
     <img src="https://img.shields.io/badge/TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a><br>
-  <a href="https://dashboard.katabump.com/auth/login#your-affiliate-id" target="_blank">
+  <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
     <img src="https://img.shields.io/badge/Katabump%20panel-D6B7D6?style=for-the-badge&logo=server&logoColor=lightblue" alt="KATABUMP"/>
   </a>
 </div>

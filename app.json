@@ -1,55 +1,62 @@
 {
-  "name": "StarXD-Bot",
-  "description": "A WhatsApp bot for managing group commands and automating tasks.",
+  "name": "sᴛᴀʀ xᴅ",
+  "description": "This is a bot for managing group commands and automating tasks.",
   "repository": "https://github.com/XdKing2/star-xd",
-  "logo": "https://i.ibb.co/rRg9wTZV/malvin-xd.jpg",
-  "keywords": ["nodejs", "whatsapp", "bot", "automation", "star-xd"],
+  "logo": "https://i.ibb.co/bjTC9sF5/malvin-xd.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "automation"],
   "success_url": "/",
-  "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
-      "description": "Session ID for the bot, must start with 'starecore~'.",
-      "required": true,
-      "value": ""
+    "BOT_NAME": {
+      "description": "Name of your bot",
+      "value": "sᴛᴀʀ xᴅ",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Name of the bot owner",
+      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+      "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Phone number of the bot owner (e.g., 263714757857).",
-      "required": false,
-      "value": "263714757857"
+      "description": "Owner's phone number with country code",
+      "value": "1234567890",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Session ID for the bot",
+      "value": "add ur session id here",
+      "required": true
+    },
+    "TIMEZONE": {
+      "description": "Your timezone",
+      "value": "Africa/Harare",
+      "required": true
+    },
+    "MODE": {
+      "description": "Bot operation mode",
+      "value": "public",
+      "required": true
     },
     "GIPHY_API_KEY": {
-      "description": "API key for Giphy integration.",
-      "required": false,
-      "value": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq"
-    },
-    "AUTO_STATUS_SEEN": {
-      "description": "Enable automatic viewing of WhatsApp statuses (true/false).",
-      "required": false,
-      "value": "true"
-    },
-    "AUTO_STATUS_REACT": {
-      "description": "Enable automatic reactions to WhatsApp statuses with random emojis (true/false).",
-      "required": false,
-      "value": "true"
-    },
-    "COMMAND_MODE": {
-      "description": "Bot command mode (public or private).",
-      "required": false,
-      "value": "public"
-    }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1
+      "description": "Giphy API key",
+      "value": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+      "required": false
     }
   },
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
-  "scripts": {
-    "start": "node index.js"
-  },
-  "addons": []
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
 }
